@@ -1,0 +1,45 @@
+\documentclass[12pt,a4paper,landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\usepackage{fourier}
+\usepackage{gensymb}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Matías.}
+\title{Física.}
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert}
+\begin{document}
+
+\begin{large}
+La tierra no está vertical con respecto al plano del sistema solar, \textbf{está inclinada unos 23$^{\circ}$}\\
+El \textbf{dinamómetro} dinamómetro es un instrumento utilizado para medir fuerzas o calcualr el peso de un objeto, el dinamómetro tradicional fue inventado por \textbf{Isaac Newton}.\\
+La \textbf{masa} es la propiedad de un objeto que especifica cuánta resistencia muestra para cambiar su \textbf{velocidad (el cambio de velocidad es la aceleración)}.\\
+Mientras más masa posee un objeto, mayor es su \textbf{inercia}.\\
+\textbf{Principio de masa}: \emph{La magnitud de aceleración de un objeto es inversamente proporcional a su masa cuando sobre él actúa una fuerza conocida}.\\
+La \textbf{aceleración} de un objeto es directamente proporcional a la fuerza que actúa sobre él.\\
+
+\begin{equation}
+\huge{\vec{a} \propto \vec{F}}
+\end{equation}
+
+\begin{equation}
+\huge{\vec{a} \propto \frac{\Sigma \vec{F}}{m}}
+\end{equation}
+
+\begin{equation}
+\huge{\Sigma \vec{F} = m\vec{a}}
+\end{equation}
+La magnitud de la aceleración de un objeto es inversamente proporcional a su masa cuando sobre él actúa una fuerza conocida.
+\begin{equation}
+\huge{\abs{\vec{a}} \propto \frac{1}{m}}
+\therefore (ignorethispls)
+\end{equation}
+\end{large}
+
+\end{document}
